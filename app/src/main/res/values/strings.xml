@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Infinite Scroll Example</string>
+    <string name="linear_rv_activity">Infinite Scroll - Linear RecyclerView</string>
+    <string name="grid_rv_activity">Infinite Scroll - Grid RecyclerView</string>
+    <string name="staggered_rv_activity">Infinite Scroll - Staggered RecyclerView</string>
+</resources>
